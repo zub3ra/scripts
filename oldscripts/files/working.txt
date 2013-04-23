@@ -1,0 +1,19 @@
+Notes.ini 
+Names.nsf
+Bookmark.nsf
+Desktop6.ndk
+*.id
+Signature.htm
+
+
+
+		For ii = 0 To UBound(arrFiles) -1 
+    		strFiletoCopy = arrFiles(ii)
+    		strFileName = strSourceDest & strFiletoCopy
+    		strFileExists = funFileCheck(strFileName)
+    		If strFileExists = 1 Then
+   				WScript.Echo "File from string is..." & strFiletoCopy
+   			Else
+   				WScript.Echo strFiletoCopy & " does not exist." 
+   			End If
+		Next

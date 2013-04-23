@@ -1,0 +1,8 @@
+Script run 11/13/2012 at 2:14:36 PM
+
+johnsorw migration has begun.
+c:\scripts\files\z.txt does not exist in source folder.
+
+azl6c9k migration has begun.
+c:\scripts\files\z.txt does not exist in source folder.
+

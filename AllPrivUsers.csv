@@ -1,0 +1,7 @@
+#TYPE Selected.System.String
+"SAM","DN","MemberOf","pwdAge","disabled","pWDneverExpires"
+"AZ-S-TSM","CN=AZ-S-TSM,OU=SystemAccounts,OU=AZL,OU=Users and Groups,DC=azlifem,DC=azl,DC=pvt","CN=Administrators,CN=Builtin,DC=azlifem,DC=azl,DC=pvt","2931","FALSE","TRUE"
+"azl6mda","CN=azl6mda,CN=Users,DC=azl,DC=pvt","CN=Administrators,CN=Builtin,DC=azl,DC=pvt","1593","FALSE","TRUE"
+"DCBACKUP","CN=DCBACKUP,OU=SystemAccounts,OU=AZL,OU=Users and Groups,DC=azlifem,DC=azl,DC=pvt","CN=Backup Operators,CN=Builtin,DC=azlifem,DC=azl,DC=pvt","992","FALSE","TRUE"
+"DCBACKUP","CN=DCBACKUP,CN=Users,DC=azl,DC=pvt","CN=Backup Operators,CN=Builtin,DC=azl,DC=pvt","992","FALSE","TRUE"
+"azl6mda","CN=azl6mda,CN=Users,DC=azl,DC=pvt","CN=Domain Admins,CN=Users,DC=azl,DC=pvt","1593","FALSE","TRUE"
